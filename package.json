@@ -1,6 +1,6 @@
 {
   "name": "rapidquiz",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "app.js",
