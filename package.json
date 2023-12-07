@@ -1,13 +1,15 @@
 {
-  "name": "rapidquiz",
+  "name": "quizwiz",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a quiz app made in nodejs.",
   "type": "module",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "./app.js",
+  "bin": {
+    "rapidquiz": "app.js"
+  },
   "author": "Ali Mughal",
   "license": "ISC",
   "dependencies": {
