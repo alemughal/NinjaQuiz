@@ -1,9 +1,9 @@
 const inquirer = require('inquirer');
 // Start the quiz
-npx quizwiz;
-# QuizWiz
+npx ninjaquiz;
+# NinjaQuiz
 
-FireQuiz is a command-line quiz application built with Node.js and Inquirer. It allows users to test their knowledge by answering a series of multiple-choice questions.
+NinjaQuiz is a command-line quiz application built with Node.js and Inquirer. It allows users to test their knowledge by answering a series of multiple-choice questions.
 
 ## Installation
 

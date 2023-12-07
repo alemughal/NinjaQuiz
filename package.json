@@ -1,6 +1,6 @@
 {
-  "name": "quizwiz",
-  "version": "1.0.2",
+  "name": "ninjaquiz",
+  "version": "1.0.0",
   "description": "This is a quiz app made in nodejs.",
   "type": "module",
   "main": "app.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "rapidquiz": "app.js"
+    "ninja-quiz": "app.js"
   },
   "author": "Ali Mughal",
   "license": "ISC",
