@@ -1,6 +1,6 @@
 {
   "name": "ninjaquiz",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a quiz app made in nodejs.",
   "type": "module",
   "main": "app.js",
