@@ -7,7 +7,7 @@ FireQuiz is a command-line quiz application built with Node.js and Inquirer. It 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/firequiz.git`
+1. Clone the repository: `git clone https://github.com/alemughal/AliQuiz.git`
 2. Navigate to the project directory: `cd aliquiz`
 3. Install the dependencies: `npm install`
 
