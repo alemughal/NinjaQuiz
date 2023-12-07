@@ -14,3 +14,5 @@ FireQuiz is a command-line quiz application built with Node.js and Inquirer. It 
 ## Usage
 
 To start the quiz, run the following command in your terminal:
+
+npx aliquiz
